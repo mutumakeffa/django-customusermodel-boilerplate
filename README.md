@@ -3,7 +3,7 @@ Starter code on how to create django's custom user model that modifies on dajngo
 
 ## Usage
 
-1. Clone the repo to your local directory
+1. Clone any of the repo to your local directory
 2. Make sure you have pipenv install so as to download the dependencies
 
 
